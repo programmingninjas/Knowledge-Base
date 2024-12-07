@@ -380,5 +380,5 @@ tolerations:
 ## References
 
 - [Kamaji Concepts](https://kamaji.clastix.io/concepts/)
-- [OpenStack Cloud Provider Documentation]([cloud-provider-openstack/docs/openstack-cloud-controller-manager/using-openstack-cloud-controller-manager.md at master · kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack/blob/master/docs/openstack-cloud-controller-manager/using-openstack-cloud-controller-manager.md))
+- [OpenStack Cloud Provider Documentation](https://github.com/kubernetes/cloud-provider-openstack/blob/master/docs/openstack-cloud-controller-manager/using-openstack-cloud-controller-manager.md)
 - [Cluster API OpenStack Images](https://github.com/osism/k8s-capi-images)
