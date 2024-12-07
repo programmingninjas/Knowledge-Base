@@ -1,2 +1,3 @@
-# Knowledge-Base
-The Oracle 
+# Index
+
+- [[Kamaji Installation on OpenStack]] 
